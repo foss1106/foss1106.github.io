@@ -1,2 +1,2 @@
-# foss1106.github.io
+# Welcome
 Website for CST251 Webtools.
