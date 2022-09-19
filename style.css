@@ -1,0 +1,111 @@
+body{
+      background-image: url(https://freefrontend.com/assets/img/css-background-patterns/background-pattern-3.png);
+      background-size: contain;
+      background-blend-mode: lighten;
+    }
+
+
+    h1{
+      background: rgb(252, 151, 10);
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin: 0 auto;
+      width: 80%;
+      font-size: 4rem;
+      border-radius: 30px;
+      font-family: "customFont_1"    
+    }
+
+
+    h2{
+      text-align: center;
+      padding: 10px;
+      margin: 0 auto;
+      width: 80%;
+      font-size: 3rem;
+      border-radius: 30px;
+      font-family: "customFont_1"  
+    }
+
+
+    p{
+        text-align: center;
+      padding: 10px;
+      margin: 0 auto;
+      width: 80%;
+      font-size: 2rem;
+    }
+  
+
+
+    main{
+      text-align: center;
+      padding: 10px;
+      margin: 0 auto;
+      width: 80%;
+      align-items: center;
+    }
+
+    ul {
+  display: table;
+  margin: 0 auto;
+  font-size: 110%;
+}
+
+    ol {
+  display: table;
+  margin: 0 auto;
+  font-size: 110%;
+}
+
+li{
+  height: auto;
+    width: 100%;
+    background: rgb(252, 151, 10);
+    border-radius: 30px;
+}
+
+    footer{
+    height: auto;
+    width: 100%;
+    background: rgb(252, 151, 10);
+    border-radius: 30px;
+    font-family: "customFont_1"
+}
+
+label{
+  height: auto;
+    width: 100%;
+    background: rgb(252, 151, 10);
+    border-radius: 30px;
+}
+
+    img.round {
+  border-radius: 30px;
+}
+
+div{
+   font-family: "customFont_1"; 
+   font-size: 2rem;
+   font-weight: bold;
+}
+
+legend {
+  font-weight: bold;
+  border-radius: 30px;
+  padding: .5em;
+  background: url(https://cdn.mos.cms.futurecdn.net/2QPcHVvuSQ3DkaTbzyfwA9-1200-80.jpg.webp);
+}
+
+fieldset{
+  background: rgb(252, 151, 10);
+    border-radius: 30px;
+}
+
+input {padding: 10px 24px;}
+
+@font-face {
+  font-family: customFont_1;
+  src: url(amaticsc-regular-webfont.woff);
+}
